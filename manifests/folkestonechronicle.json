@@ -1,0 +1,43 @@
+{
+    "@context": "https://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://kent-map.github.io/kent/manifests/folkestone.json",
+    "label": "Folkestone",    
+    "attribution": "Photographed by Martin Crowther <span><a href=\"https://www.photographerskent.com\">https://www.photographerskent.com</a></span>",
+    "license": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": "http://free.iiifhosting.com/iiif/ad47f6dd1db20ead3cffa4dc0594c6cd8e73344d61ee35f39d9cd647642c7d15/",
+    "sequences": [
+      {
+        "@id": "https://kent-map.github.io/kent/manifests/folkestone/sequence/sequence-1",
+        "@type": "sc:Sequence",
+        "canvases": [
+          {
+            "@id": "https://kent-map.github.io/kent/manifests/folkestone/canvas/canvas-1",
+            "@type": "sc:Canvas",
+            "label": "Folkestone",
+            "height": 3000,
+            "width": 3000,
+            "images": [
+              {
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "hhttp://free.iiifhosting.com/iiif/ad47f6dd1db20ead3cffa4dc0594c6cd8e73344d61ee35f39d9cd647642c7d15/",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@id": "http://free.iiifhosting.com/iiif/ad47f6dd1db20ead3cffa4dc0594c6cd8e73344d61ee35f39d9cd647642c7d15/",
+                    "profile": "https://iiif.io/api/image/2/level2.json"
+                  },
+                  "height": 6662,
+                  "width": 4442
+                },
+                "on": "https://humanities-in-the-digital-world.github.io/master/manifests/folkestone/canvas/canvas-1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
