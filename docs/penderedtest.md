@@ -1,3 +1,14 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
+<param ve-config title="John Wallis (1616-1703)" author="Barnaby Russell and Michelle Crowther" layout="vtl" banner="/images/banners/17c.jpg"> 
+
+<param ve-entity eid="Q725261" aliases="Ashford">
+<param ve-entity eid="Q632173" aliases="Godmersham">
+<param ve-entity eid="Q614560" aliases="Tenterden">
+
+#
+
+
 ## Mary Lucy Pendered (1858 – 1940)
 
 **Place:** Beltinge, Herne Bay
